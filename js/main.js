@@ -131,7 +131,7 @@ var SliderStatus = true;
 
 		setTimeout(function(){
 			startImageHeader();
-		}, 800);	
+		}, 300);	
 	}
 
 	startImageHeader();
